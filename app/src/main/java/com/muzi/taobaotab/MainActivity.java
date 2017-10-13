@@ -44,10 +44,18 @@ public class MainActivity extends AppCompatActivity {
         fragmentList.add(new TypeFragment());
         fragmentList.add(new TypeFragment());
         fragmentList.add(new TypeFragment());
+        fragmentList.add(new TypeFragment());
+        fragmentList.add(new TypeFragment());
+        fragmentList.add(new TypeFragment());
+        fragmentList.add(new TypeFragment());
 
         stringList.add("16:00\n拍卖结束");
         stringList.add("17:00\n疯狂抢购中");
         stringList.add("18:00\n即将开始");
         stringList.add("19:00\n即将开始");
+        stringList.add("20:00\n即将开始");
+        stringList.add("21:00\n即将开始");
+        stringList.add("22:00\n即将开始");
+        stringList.add("23:00\n即将开始");
     }
 }
